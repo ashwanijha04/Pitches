@@ -1,5 +1,6 @@
-
 # TaxiPro — Making Your Taxi Business Fly!
+
+<img src="./images/test.png" width="600" alt="TaxiPro Logo">
 
 ## 1. Executive Summary
 
@@ -12,9 +13,11 @@
 
 ## 2. Introduction
 
-**Addressing Today's Taxi Business Challenges in Bharat:** The taxi industry faces stiff competition, technological integration costs, and marketing challenges. TaxiPro simplifies these complexities with a dual-platform solution that not only enhances customer booking experiences but also streamlines business operations. 
+**Addressing Today's Taxi Business Challenges in Bharat:** The taxi industry faces stiff competition, technological integration costs, and marketing challenges. TaxiPro simplifies these complexities with a dual-platform solution that not only enhances customer booking experiences but also streamlines business operations.
 
 For example, a small taxi company used TaxiPro to double their bookings within three months by leveraging its integrated marketing tools and user-friendly booking system.
+
+<img src="./images/customer.png" width="600" alt="Challenges">
 
 ### Challenges
 
@@ -32,8 +35,6 @@ For example, a small taxi company used TaxiPro to double their bookings within t
 
 - Many taxi business owners do not have the expertise or time to effectively manage marketing campaigns and search engine optimization (SEO), limiting their ability to attract new customers and grow their business.
 - **Solution:** We will manage your website and SEO, allowing business owners to manage effective campaigns with minimal time investment. This includes setup and management of Google Ads, social media pages, and local SEO optimization for better search engine ranking.
-
-TaxiPro addresses these common challenges by offering a dual-platform solution that enhances booking experiences for customers and optimizes management for business owners. By integrating user-friendly technology and comprehensive management tools, TaxiPro helps businesses streamline operations, improve customer satisfaction, and increase their market reach.
 
 ## 3. Features Overview
 
@@ -62,6 +63,8 @@ The business platform, known as TaxiPro, provides comprehensive tools for managi
 **Demo Website:** [taxipro.citytaxis.in](http://taxipro.citytaxis.in)  
 [![View Demo](https://img.shields.io/badge/View%20Demo-Explore%20Now-blue)](http://taxipro.citytaxis.in)
 
+<img src="./images/bookingDashboard.png" width="600" alt="Booking Management">
+
 ### 3.3 Bookings Dashboard
 
 The booking dashboard allows for the following:
@@ -74,6 +77,8 @@ The booking dashboard allows for the following:
 
 ### 3.4 Driver Management Dashboard
 
+<img src="./images/bookingDetails.png" width="600" alt="Driver Management">
+
 The driver management dashboard allows for the following:
 
 1. Onboard drivers using PAN CARD, Aadhar Card
@@ -81,6 +86,8 @@ The driver management dashboard allows for the following:
 3. Assign the onboarded drivers to new bookings
 
 ### 3.5 Marketing Dashboard
+
+<img src="./images/marketing.png" width="600" alt="Marketing Dashboard">
 
 The marketing dashboard features a rich marketing management dashboard and tools, allowing for the following:
 
@@ -92,6 +99,8 @@ The marketing dashboard features a rich marketing management dashboard and tools
 
 ### 3.6 WhatsApp API
 
+<img src="./images/whatsappdash.png" width="600" alt="WhatsApp Dashboard">
+
 The marketing dashboard consists of a WhatsApp business solution which helps with the following:
 
 1. Get booking notifications with WhatsApp Business API
@@ -100,6 +109,8 @@ The marketing dashboard consists of a WhatsApp business solution which helps wit
 4. See message data, create new WhatsApp templates and campaigns, or use our library of pre-existing campaigns
 
 ## 4. Customer Journey
+
+<img src="./images/chatwithCustomers.png" width="600" alt="Customer Journey">
 
 The customer journey is designed to ensure a smooth and efficient experience from booking to arrival.
 
@@ -150,6 +161,3 @@ For more information or to schedule a demo, please contact us at:
 
 [![Contact Us](https://img.shields.io/badge/Contact%20Us-Let's%20Talk-yellow)](#8-contact-us)
 
----
-
-This version includes interactive elements like buttons and badges that direct readers to take actions, enhancing engagement on Medium.

@@ -140,7 +140,7 @@ Implementing TaxiPro provides numerous benefits for taxi businesses.
 | Growth     | Medium-sized businesses     | ₹5,499          | All features from Basic, Automated Booking notifications, Dedicated support |
 | Enterprise | Large taxi companies/franchises | ₹9,999          | All features from Professional, Website SEO tools and service, Google Ads management, Social media management, Extensive WhatsApp marketing campaigns |
 
-[![Sign Up](https://img.shields.io/badge/Sign%20Up-Choose%20Your%20Plan-orange)](#8-contact-us)
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-Choose%20Your%20Plan-orange)](taxipro.citytaxis.in)
 
 ## 8. Contact Us
 

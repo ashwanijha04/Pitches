@@ -1,6 +1,5 @@
 # TaxiPro — Making Your Taxi Business Fly!
 
-<img src="./images/test.png" width="600" alt="TaxiPro Logo">
 
 ## 1. Executive Summary
 

@@ -17,7 +17,6 @@
 
 For example, a small taxi company used TaxiPro to double their bookings within three months by leveraging its integrated marketing tools and user-friendly booking system.
 
-<img src="./images/customer.png" width="600" alt="Challenges">
 
 ### Challenges
 
@@ -50,6 +49,9 @@ The customer platform is a user-friendly website that allows users to book taxis
 **Demo Website:** [www.indorecabs.com](http://www.indorecabs.com)  
 [![View Demo](https://img.shields.io/badge/View%20Demo-Explore%20Now-blue)](http://www.indorecabs.com)
 
+<img src="./images/customer.png" width="300"  height="400" alt="Challenges"> <img src="./images/bookingDetails.png" width="300" height="400" alt="Driver Management">
+
+
 ### 3.2 Business Platform
 
 The business platform, known as TaxiPro, provides comprehensive tools for managing bookings, drivers, and vehicles.
@@ -77,8 +79,6 @@ The booking dashboard allows for the following:
 
 ### 3.4 Driver Management Dashboard
 
-<img src="./images/bookingDetails.png" width="600" alt="Driver Management">
-
 The driver management dashboard allows for the following:
 
 1. Onboard drivers using PAN CARD, Aadhar Card
@@ -99,7 +99,9 @@ The marketing dashboard features a rich marketing management dashboard and tools
 
 ### 3.6 WhatsApp API
 
-<img src="./images/whatsappdash.png" width="600" alt="WhatsApp Dashboard">
+<img src="./images/whatsappdash.png" width="600" alt="WhatsApp Dashboard"> 
+<img src="./images/chatwithCustomers.png" width="600" alt="Customer Journey">
+
 
 The marketing dashboard consists of a WhatsApp business solution which helps with the following:
 
@@ -110,7 +112,6 @@ The marketing dashboard consists of a WhatsApp business solution which helps wit
 
 ## 4. Customer Journey
 
-<img src="./images/chatwithCustomers.png" width="600" alt="Customer Journey">
 
 The customer journey is designed to ensure a smooth and efficient experience from booking to arrival.
 

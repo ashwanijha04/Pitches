@@ -1,4 +1,4 @@
-Certainly! I've maintained the tables to ensure that the information is clearly presented. Here is the revised document:
+Certainly! To enhance the document for Medium with interactive buttons and badges, we'll incorporate elements like **Call-to-Action** buttons and visual indicators to make the content more engaging. Here's how you can do it:
 
 ---
 
@@ -10,6 +10,8 @@ Certainly! I've maintained the tables to ensure that the information is clearly 
 
 1. A customer-facing website for seamless cab bookings.
 2. A robust booking management platform for business owners.
+
+[![Get Started](https://img.shields.io/badge/Get%20Started-Try%20TaxiPro-green)](#8-contact-us)
 
 ## 2. Introduction
 
@@ -47,7 +49,8 @@ The customer platform is a user-friendly website that allows users to book taxis
 - **Automated Notifications:** Customers receive notifications on booking and payment status, driver assignments, and trip start.
 - **Blog Pages to Attract Customers:** Dedicated blog page for posting stories and content for SEO.
 
-**Demo Website:** [www.indorecabs.com](http://www.indorecabs.com)
+**Demo Website:** [www.indorecabs.com](http://www.indorecabs.com)  
+[![View Demo](https://img.shields.io/badge/View%20Demo-Explore%20Now-blue)](http://www.indorecabs.com)
 
 ### 3.2 Business Platform
 
@@ -59,7 +62,8 @@ The business platform, known as TaxiPro, provides comprehensive tools for managi
 - **Receipt Generation:** Automatically generate receipts for customers.
 - **Marketing Tools:** Built-in tools for promoting the business and increasing visibility.
 
-**Demo Website:** [taxipro.citytaxis.in](http://taxipro.citytaxis.in)
+**Demo Website:** [taxipro.citytaxis.in](http://taxipro.citytaxis.in)  
+[![View Demo](https://img.shields.io/badge/View%20Demo-Explore%20Now-blue)](http://taxipro.citytaxis.in)
 
 ### 3.3 Bookings Dashboard
 
@@ -136,6 +140,8 @@ Implementing TaxiPro provides numerous benefits for taxi businesses.
 | Growth     | Medium-sized businesses     | ₹5,499          | All features from Basic, Automated Booking notifications, Dedicated support |
 | Enterprise | Large taxi companies/franchises | ₹9,999          | All features from Professional, Website SEO tools and service, Google Ads management, Social media management, Extensive WhatsApp marketing campaigns |
 
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-Choose%20Your%20Plan-orange)](#8-contact-us)
+
 ## 8. Contact Us
 
 TaxiPro is an all-in-one solution that addresses the needs of both customers and taxi business owners. By implementing this tool, businesses can improve their operational efficiency, increase customer satisfaction, and grow their market presence.
@@ -145,6 +151,8 @@ For more information or to schedule a demo, please contact us at:
 - Email: [anand@citytaxis.in](mailto:anand@citytaxis.in) or [ashwanijha04@gmail.com](mailto:ashwanijha04@gmail.com)
 - Phone: +91–8971717717
 
+[![Contact Us](https://img.shields.io/badge/Contact%20Us-Let's%20Talk-yellow)](#8-contact-us)
+
 ---
 
-This format maintains the table structures while enhancing readability with clear sections and lists.
+This version includes interactive elements like buttons and badges that direct readers to take actions, enhancing engagement on Medium.
